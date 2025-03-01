@@ -1,4 +1,0 @@
-div{background-color: tomato; font-size: x-large;
-}
-*{border-radius: 10px; font-family: cursive;}
-h1{display: block; background-color: aquamarine;width: 200px; }
